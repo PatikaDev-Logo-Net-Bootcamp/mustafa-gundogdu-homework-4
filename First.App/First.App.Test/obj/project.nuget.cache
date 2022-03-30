@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ca+9ZdF6qG6iKUGAHqExrHVO5CLmPpt1Qmfbyo9OvIQfOtnXxcF1SqFvmRVlAKREAuyXrassGUJm33WugvNtTg==",
+  "dgSpecHash": "U7/Pkx2quKQzAnZvd26G+ZiWsfMYMrArv8NFRUgymPMw0fQ6UJAiHWFUP2ZXHBzbfdwu1TSEzsAMI0RDsFzWRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Test\\First.App.Console.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Test\\First.App.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

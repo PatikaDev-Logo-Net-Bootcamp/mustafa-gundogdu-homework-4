@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7AtXbI5Qj1gFohq05SqtB4gM2mtbYUigo8VqZ7F7odwKB44HdhQLGdydGjG0g4u9imay+eotGbFPrQdHjhmOZA==",
+  "dgSpecHash": "gsZJjr/5P7sWjCvn9gbfFnRPabBi1ZGL01HpnNutmlvNUuuj5driwcqeSrr0N2drtSBul4IUlvtOskqQZfPPcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.API\\First.API.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.API\\First.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.23\\microsoft.aspnetcore.authentication.jwtbearer.3.1.23.nupkg.sha512",

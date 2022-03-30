@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {}
+    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
         "projectName": "First.App.DataAccess.EntityFramework.Repository",
-        "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
+              "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+                "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
         "projectName": "First.App.DataAccess.EntityFramework",
-        "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-                "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Domain\\First.App.Domain.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+    "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Domain\\First.App.Domain.csproj",
         "projectName": "First.App.Domain",
-        "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Domain\\First.App.Domain.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App (1)\\First.App\\First.App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\logoegitim\\homeworks\\homework-4\\mustafa-gundogdu-homework-4\\First.App\\First.App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
